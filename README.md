@@ -17,7 +17,7 @@ In this project I generate a simple logo maker to avoid paying out for a logo fo
 
 ## Walkthrough Video/Screenshot
 
-[Click here to watch video](https://drive.google.com/file/d/1TKF_MSqzSVxvbKbDL__OuWpI87Ja-M2z/view/)
+[Click here to watch video](https://drive.google.com/file/d/1TKF_MSqzSVxvbKbDL__OuWpI87Ja-M2z/view)
 
 ![Screenshot](./assets/Screenshot%202023-09-22%20at%204.51.35%20PM.png)
 
